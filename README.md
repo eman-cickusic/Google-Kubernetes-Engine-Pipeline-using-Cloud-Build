@@ -19,7 +19,7 @@ This guide walks you through setting up the Cloud Build triggers for both reposi
    - **Service account**: Select the Compute Engine default service account
 4. Click **Create**.
 
-## Env Repository Trigger (CD Pipeline)
+## Env Repository Trigger (CD Pipeline) 
 
 1. Go to the Google Cloud Console and navigate to **Cloud Build > Triggers**.
 2. Click **Create Trigger**.
